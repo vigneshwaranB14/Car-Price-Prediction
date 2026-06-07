@@ -38,7 +38,5 @@ Author
 VigneshWaran
 
 Result
+
 <img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/71bbd56f-45b2-4105-9039-924a00a97be6" />
-
-<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/da12c2c5-82c0-4a1a-87ad-89f8eef16214" />
-
